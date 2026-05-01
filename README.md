@@ -88,26 +88,21 @@ Cost = Distance + (Danger × Weight)
 ## 📂 Project Structure
 
 panic-route-system/
-│
 ├── src/
-│   ├── main.c
-│   ├── graph.c
-│   ├── heap.c
-│   ├── dijkstra.c
-│   ├── risk.c
-│
+│ ├── main.c
+│ ├── graph.c
+│ ├── heap.c
+│ ├── dijkstra.c
+│ └── risk.c
 ├── include/
-│   ├── graph.h
-│   ├── heap.h
-│   ├── dijkstra.h
-│   ├── risk.h
-│
+│ ├── graph.h
+│ ├── heap.h
+│ ├── dijkstra.h
+│ └── risk.h
 ├── input/
-│   └── sample.txt
-│
+│ └── sample.txt
 ├── docs/
-│   └── Project_Report.pptx
-│
+│ └── Project_Report.pptx
 ├── README.md
 └── .gitignore
 
