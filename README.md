@@ -120,14 +120,15 @@ gcc src/*.c -o panic
 
 ---
 
-## 🧪 Sample Input
-
+<h2>🧪 Sample Input</h2>
+<pre>
 4
 4
 0 1 2 9
 1 2 2 9
 0 2 6 1
 2 3 3 2
+</pre>
 
 ---
 
