@@ -15,6 +15,20 @@ Unlike traditional shortest-path algorithms that minimize distance, this system 
 
 <hr>
 
+<h2>📸 Visual Demonstration</h2>
+
+<h3>🧠 Concept: Shortest vs Safest Path</h3>
+<img src="assets/concept.png" width="700">
+
+<h3>💻 Program Execution (CLI Output)</h3>
+<img src="assets/output.png" width="700">
+
+<p>
+<i>The system selects a safer path (0 → 2 → 3) despite a shorter but riskier alternative.</i>
+</p>
+
+<hr>
+
 <h2>🎯 Problem Statement</h2>
 <p>
 In real-world situations such as emergencies, the shortest path is not always the safest.
@@ -165,6 +179,9 @@ panic-route-system/
 │   └── sample.txt
 ├── docs/
 │   └── Project_Report.pptx
+├── assets/
+│   ├── concept.png
+│   └── output.png
 ├── README.md
 └── .gitignore
 </pre>
