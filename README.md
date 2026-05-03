@@ -1,3 +1,10 @@
+![Language](https://img.shields.io/badge/Language-C-blue)
+![Domain](https://img.shields.io/badge/Domain-Data%20Structures%20%26%20Algorithms-orange)
+![Algorithm](https://img.shields.io/badge/Algorithm-Dijkstra-green)
+![Type](https://img.shields.io/badge/Application-CLI-lightgrey)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # 🚨 Panic Route System
 
 <h3>Risk-Aware Pathfinding using Modified Dijkstra Algorithm</h3>
